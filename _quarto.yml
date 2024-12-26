@@ -2,16 +2,15 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "sudo_masochist"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/sudo-masochist/
+      - icon: reddit
+        href: https://www.reddit.com/user/sudo_masochist/
 format:
   html:
     theme: cosmo
