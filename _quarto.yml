@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "sudo_masochist"
   navbar:
+    title: "sudo_masochist_"
+    #change to false and is possible to have a gif
+    #logo: images/test_gig.gif
     right:
       - about.qmd
       - icon: github
@@ -13,8 +15,8 @@ website:
         href: https://www.reddit.com/user/sudo_masochist/
 format:
   html:
-    theme: simplex
-    css: styles.css
+    theme:
+      light: simplex
 
 editor: visual
 
