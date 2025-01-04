@@ -1,1 +1,2 @@
-[x] transparent background logo gif
+[] transparent background logo gif
+[] add a google tag
