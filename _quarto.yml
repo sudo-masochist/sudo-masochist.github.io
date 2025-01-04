@@ -16,7 +16,7 @@ website:
 format:
   html:
     theme:
-      light: simplex
+      - test.scss
 
 editor: visual
 
