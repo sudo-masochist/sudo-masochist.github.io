@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-3ZQ33TPE3P"
   navbar:
     title: "sudo_masochist_"
     #change to false and is possible to have a gif
@@ -15,7 +16,6 @@ website:
       - icon: reddit
         href: https://www.reddit.com/user/sudo_masochist/
         target: _blank
-    google-analytics: "G-3ZQ33TPE3P"
 format:
   html:
     theme:
