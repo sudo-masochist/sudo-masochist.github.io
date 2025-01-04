@@ -7,12 +7,15 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com
+      target: _blank
 ---
 
 About this blog
