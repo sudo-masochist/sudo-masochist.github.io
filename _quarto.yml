@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "sudo_masochist"
   navbar:
+    title: "sudo_masochist_"
+    #change to false and is possible to have a gif
+    #logo: images/test_gig.gif
     right:
       - about.qmd
       - icon: github
         href: https://github.com/sudo-masochist/
+        target: _blank
       - icon: reddit
         href: https://www.reddit.com/user/sudo_masochist/
+        target: _blank
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - test.scss
 
 editor: visual
 
