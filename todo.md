@@ -1,2 +1,1 @@
-[] transparent background logo gif
-[] 
+[x] transparent background logo gif
