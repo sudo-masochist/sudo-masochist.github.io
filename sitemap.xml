@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sudo-masochist.github.io/todo.html</loc>
-    <lastmod>2025-01-04T07:14:19.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sudo-masochist.github.io/index.html</loc>
-    <lastmod>2025-01-04T07:14:19.095Z</lastmod>
-  </url>
-  <url>
     <loc>https://sudo-masochist.github.io/about.html</loc>
-    <lastmod>2025-01-04T07:14:19.079Z</lastmod>
+    <lastmod>2025-10-17T02:33:32.570Z</lastmod>
   </url>
   <url>
     <loc>https://sudo-masochist.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2025-01-04T07:14:19.095Z</lastmod>
+    <lastmod>2025-10-17T02:33:32.587Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudo-masochist.github.io/index.html</loc>
+    <lastmod>2025-10-17T02:33:32.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sudo-masochist.github.io/todo.html</loc>
+    <lastmod>2025-10-17T02:33:32.588Z</lastmod>
   </url>
 </urlset>
