@@ -2,7 +2,7 @@
 title: "Why Baseball Games Start at Odd, Seemingly Arbitrary Times"
 author: "sudo_masochist"
 date: "2025-10-31"
-categories: [dataisbeautiful, Baseball, Sports]
+categories: [dataisbeautiful, sports, baseball]
 image: "image.jpg"
 ---
 
