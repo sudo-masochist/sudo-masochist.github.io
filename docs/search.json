@@ -23,15 +23,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "sudo_masochist",
+    "title": "",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 25, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy Baseball Games Start at Odd, Seemingly Arbitrary Times\n\n\n\ndataisbeautiful\n\n\nsports\n\n\nbaseball\n\n\n\n\n\n\n\nsudo_masochist\n\n\nOct 31, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "todo.html",
     "href": "todo.html",
     "title": "",
     "section": "",
-    "text": "[] transparent background logo gif [] add a google tag"
+    "text": "[] transparent background logo gif [] add a google tag [] font on posts is different [] update about page [] move the substack sign up tile"
+  },
+  {
+    "objectID": "posts/post-with-code/mlb_first_pitch_time.html",
+    "href": "posts/post-with-code/mlb_first_pitch_time.html",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "",
+    "text": "If you watch MLB baseball, you have probably noticed some strange start times like 12:35, 6:38, or 7:07.\nI looked at the most common home start time for each team and made the chart below to see how they differ, then dug into why those differences exist."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "",
+    "text": "If you watch MLB baseball, you have probably noticed some strange start times like 12:35, 6:38, or 7:07.\nI looked at the most common home start time for each team and made the chart below to see how they differ, then dug into why those differences exist."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-chicago-cubs",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-chicago-cubs",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "1:20 PM: Chicago Cubs",
+    "text": "1:20 PM: Chicago Cubs\nThe Cubs are the league’s only regular daytime team. Wrigley Field did not install lights until 1988, and the franchise has kept early afternoon games as a defining feature. The schedule suits the team’s neighborhood setting and helps avoid late-night disruptions on Chicago’s North Side."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-the-standard-local-start",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-the-standard-local-start",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "6:35–6:40 PM: The Standard Local Start",
+    "text": "6:35–6:40 PM: The Standard Local Start\nTeams: Orioles (6:35), Diamondbacks, White Sox, Reds, Guardians, Rockies, Tigers, Royals, Marlins, Brewers, Twins, Pirates, Padres, Mariners\nThis 6:35–6:40 block covers nearly half the league. It is early enough for families and avoids late finishes on school nights, especially in smaller markets or in the Central and Mountain time zones. These teams tend to prioritize in-person attendance over prime-time television windows."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-commuter-friendly-starts",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-commuter-friendly-starts",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "6:45 PM: Commuter-Friendly Starts",
+    "text": "6:45 PM: Commuter-Friendly Starts\nTeams: Phillies, Giants, Cardinals, Nationals\nStarting at 6:45 gives fans in urban areas a buffer for post-work travel. Philadelphia, San Francisco, and Washington all have ballparks accessible by transit, and those extra minutes help fill seats before first pitch."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-los-angeles-angels",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-los-angeles-angels",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "6:38 PM: Los Angeles Angels",
+    "text": "6:38 PM: Los Angeles Angels\nThe Angels’ unusual 6:38 start time is intentional. The team shifted to non-round numbers years ago for broadcast visibility and to give fans more time to park and enter the stadium after Southern California rush hour. It is a local branding quirk that has become part of the routine."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-the-prime-time-window",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-the-prime-time-window",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "7:05–7:15 PM: The Prime-Time Window",
+    "text": "7:05–7:15 PM: The Prime-Time Window\nTeams: Athletics (7:05), Yankees (7:05), Rays (7:05), Rangers (7:05), Red Sox (7:10), Astros (7:10), Dodgers (7:10), Mets (7:10), Braves (7:15)\nThese times represent the traditional prime-time slot for local television broadcasts. Eastern and Southern teams often anchor here to align with nightly viewing habits. Later starts also help avoid early-evening heat in warmer climates like Texas and Georgia."
+  },
+  {
+    "objectID": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-toronto-blue-jays",
+    "href": "posts/mlb-first-pitch-time/mlb_first_pitch_time.html#pm-toronto-blue-jays",
+    "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
+    "section": "7:07 PM: Toronto Blue Jays",
+    "text": "7:07 PM: Toronto Blue Jays\nToronto’s 7:07 start time is one of MLB’s most recognizable quirks. The team has never formally explained it, but two theories persist:\nThe “double sevens” are often seen as a nod to 1977, the year the franchise was founded. Others point to the dual national anthems, “O Canada” and “The Star-Spangled Banner,” which add a few minutes of pregame ceremony compared with U.S. teams.\nWhatever the origin, the consistent 7:07 first pitch has become part of the Blue Jays’ brand identity and a subtle local signature in MLB scheduling.\n\nIn summary… go Sox\n\n View the code on GitHub"
   }
 ]

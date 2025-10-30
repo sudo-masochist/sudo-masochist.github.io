@@ -1,0 +1,15 @@
+{
+  "hash": "044704f819dde4b11444f966f43ac47a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Why Baseball Games Start at Odd, Seemingly Arbitrary Times\"\nauthor: \"sudo_masochist\"\ndate: \"2025-10-31\"\ncategories: [dataisbeautiful, sports, baseball]\nimage: \"image.jpg\"\n---\n\n\n\n\nThis is a post with executable code.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
