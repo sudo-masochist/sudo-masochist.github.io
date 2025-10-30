@@ -1,15 +1,16 @@
 project:
   type: website
   output-dir: docs
+    
 
 website:
   google-analytics: "G-3ZQ33TPE3P"
   navbar:
     title: "sudo_masochist"
     #TODO: change to false and is possible to have a gif
-    logo: images/test_gig.gif
+    #logo: images/test_gig.gif
     right:
-      - about.qmd
+      #- about.qmd
       - icon: github
         href: https://github.com/sudo-masochist/
         target: _blank
@@ -18,13 +19,13 @@ website:
         target: _blank
 format:
   html:
+    css: styles.css
     theme:
-      light: [litera, styles.scss]
-      dark: [darkly, styles-dark.scss]
+      light: [litera]
+      dark: [solar]
     highlight-style: a11y-dark
     mainfont: "Menlo"
     code-copy: true
     code-overflow: wrap
-
 editor: visual
 

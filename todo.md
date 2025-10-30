@@ -1,2 +1,3 @@
-[] transparent background logo gif
-[] add a google tag
+transparent background logo gif
+add a google tag
+add an aboout page

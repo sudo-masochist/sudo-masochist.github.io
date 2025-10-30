@@ -1,9 +1,5 @@
 ---
-margin-header: subscribe.html
-format:
-  html:
-    grid:
-      margin-width: 500px
+include-after-body: subscribe.html
 listing:
   contents: posts
   sort: "date desc"
@@ -15,3 +11,4 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
