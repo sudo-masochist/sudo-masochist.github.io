@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sudo-masochist.github.io/about.html</loc>
-    <lastmod>2025-10-17T02:36:33.297Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sudo-masochist.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2025-10-17T02:36:33.313Z</lastmod>
+    <loc>https://sudo-masochist.github.io/todo.html</loc>
+    <lastmod>2025-10-30T21:33:16.136Z</lastmod>
   </url>
   <url>
     <loc>https://sudo-masochist.github.io/index.html</loc>
-    <lastmod>2025-10-17T02:36:33.312Z</lastmod>
+    <lastmod>2025-10-30T21:33:16.133Z</lastmod>
   </url>
   <url>
-    <loc>https://sudo-masochist.github.io/todo.html</loc>
-    <lastmod>2025-10-17T02:36:33.313Z</lastmod>
+    <loc>https://sudo-masochist.github.io/posts/mlb-first-pitch-time/mlb_first_pitch_time.html</loc>
+    <lastmod>2025-10-30T21:33:16.134Z</lastmod>
   </url>
 </urlset>
