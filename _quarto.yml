@@ -4,6 +4,7 @@ project:
     
 
 website:
+  favicon: /images/sm_logo.png
   google-analytics: "G-3ZQ33TPE3P"
   navbar:
     title: "sudo_masochist"
