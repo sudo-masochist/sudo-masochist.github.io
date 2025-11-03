@@ -24,3 +24,12 @@ In 2025, *67* has eclipsed *69* in Google search popularity. This week [Dictiona
 
 If you don’t know what *67* is, read [Dictionary.com’s article](https://www.dictionary.com/e/word-of-the-year-2025/) or this [Wall Street Journal piece](https://www.wsj.com/lifestyle/six-seven-meme-teens-math-teachers-42764bcb?gaa_at=eafs&gaa_n=AWEtsqcev_D8mIi7PAXApQ9kaAJ73Xs6p4sLS-hpk4ghpXxLS65GP4KR3MitEf1hcWk%3D&gaa_ts=6907f43c&gaa_sig=p7-bm8dw0ZM0OKOAek07YkV2ylhjb9YY_3E2Ey3ts-exxxp-xzPLH1CwTfZmzEKu_9CTG6LUmtxCJP5g-cbErw%3D%3D).  
 If you don’t know what *69* is, see [Urban Dictionary](https://www.urbandictionary.com/define.php?term=69).
+
+
+
+
+::: {style="text-align:center; margin: 1em 0;"}
+<a href="https://github.com/sudo-masochist/data-vizes/tree/main/67-vs-69"
+     target="_blank" 
+     style="display:inline-block; padding:0.5em 1em; background-color:#007bff; color:white; border-radius:5px; text-decoration:none;"> View the code on GitHub </a>
+:::

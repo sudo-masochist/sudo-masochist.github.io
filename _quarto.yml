@@ -18,6 +18,9 @@ website:
       - icon: reddit
         href: https://www.reddit.com/user/sudo_masochist/
         target: _blank
+      - icon: substack
+        href: https://sudomasochist.substack.com/
+        target: _blank
 format:
   html:
     css: styles.css
