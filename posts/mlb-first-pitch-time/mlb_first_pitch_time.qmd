@@ -5,47 +5,55 @@ date: "2025-10-31"
 categories: [dataisbeautiful, sports, baseball]
 image: "mlb_team_start_times.png"
 ---
+
 ![](mlb_team_start_times.png)
+
 <hr>
+
 If you watch MLB baseball, you have probably noticed some strange start times like 12:35, 6:38, or 7:07.
 
 I looked at the most common home start time for each team and made the chart below to see how they differ, then dug into why those differences exist.
 
 ## 1:20 PM: Chicago Cubs
+
 The Cubs are the league’s only regular daytime team. Wrigley Field did not install lights until 1988, and the franchise has kept early afternoon games as a defining feature. The schedule suits the team’s neighborhood setting and helps avoid late-night disruptions on Chicago’s North Side.
 
 ## 6:35–6:40 PM: The Standard Local Start
-**Teams:** Orioles (6:35), Diamondbacks, White Sox, Reds, Guardians, Rockies, Tigers, Royals, Marlins, Brewers, Twins, Pirates, Padres, Mariners  
+
+**Teams:** Orioles (6:35), Diamondbacks, White Sox, Reds, Guardians, Rockies, Tigers, Royals, Marlins, Brewers, Twins, Pirates, Padres, Mariners
 
 This 6:35–6:40 block covers nearly half the league. It is early enough for families and avoids late finishes on school nights, especially in smaller markets or in the Central and Mountain time zones. These teams tend to prioritize in-person attendance over prime-time television windows.
 
 ## 6:45 PM: Commuter-Friendly Starts
-**Teams:** Phillies, Giants, Cardinals, Nationals  
+
+**Teams:** Phillies, Giants, Cardinals, Nationals
 
 Starting at 6:45 gives fans in urban areas a buffer for post-work travel. Philadelphia, San Francisco, and Washington all have ballparks accessible by transit, and those extra minutes help fill seats before first pitch.
 
 ## 6:38 PM: Los Angeles Angels
+
 The Angels’ unusual 6:38 start time is intentional. The team shifted to non-round numbers years ago for broadcast visibility and to give fans more time to park and enter the stadium after Southern California rush hour. It is a local branding quirk that has become part of the routine.
 
 ## 7:05–7:15 PM: The Prime-Time Window
-**Teams:** Athletics (7:05), Yankees (7:05), Rays (7:05), Rangers (7:05), Red Sox (7:10), Astros (7:10), Dodgers (7:10), Mets (7:10), Braves (7:15)  
+
+**Teams:** Athletics (7:05), Yankees (7:05), Rays (7:05), Rangers (7:05), Red Sox (7:10), Astros (7:10), Dodgers (7:10), Mets (7:10), Braves (7:15)
 
 These times represent the traditional prime-time slot for local television broadcasts. Eastern and Southern teams often anchor here to align with nightly viewing habits. Later starts also help avoid early-evening heat in warmer climates like Texas and Georgia.
 
 ## 7:07 PM: Toronto Blue Jays
+
 Toronto’s 7:07 start time is one of MLB’s most recognizable quirks. The team has never formally explained it, but two theories persist:
 
-The “double sevens” are often seen as a nod to 1977, the year the franchise was founded.
-Others point to the dual national anthems, “O Canada” and “The Star-Spangled Banner,” which add a few minutes of pregame ceremony compared with U.S. teams.  
+The “double sevens” are often seen as a nod to 1977, the year the franchise was founded. Others point to the dual national anthems, “O Canada” and “The Star-Spangled Banner,” which add a few minutes of pregame ceremony compared with U.S. teams.
 
 Whatever the origin, the consistent 7:07 first pitch has become part of the Blue Jays’ brand identity and a subtle local signature in MLB scheduling.
+
 <hr>
+
 In summary… go Sox
 
-<div style="text-align:center; margin: 1em 0;">
-  <a href="https://github.com/sudo-masochist/data-vizes/tree/main/mlb-team-first-pitch-time"
+::: {style="text-align:center; margin: 1em 0;"}
+<a href="https://github.com/sudo-masochist/data-vizes/tree/main/mlb-team-first-pitch-time"
      target="_blank" 
-     style="display:inline-block; padding:0.5em 1em; background-color:#007bff; color:white; border-radius:5px; text-decoration:none;">
-     View the code on GitHub
-  </a>
-</div>
+     style="display:inline-block; padding:0.5em 1em; background-color:#007bff; color:white; border-radius:5px; text-decoration:none;"> View the code on GitHub </a>
+:::

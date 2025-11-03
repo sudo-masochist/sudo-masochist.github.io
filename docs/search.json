@@ -25,14 +25,14 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy Baseball Games Start at Odd, Seemingly Arbitrary Times\n\n\n\ndataisbeautiful\n\n\nsports\n\n\nbaseball\n\n\n\n\n\n\n\nsudo_masochist\n\n\nOct 31, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Internet Has a New Favorite Number: 67 Has Eclipsed 69 in Search Popularity\n\n\n\ndataisbeautiful\n\n\nmedia\n\n\npop culture\n\n\n\n\n\n\n\nsudo_masochist\n\n\nNov 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy Baseball Games Start at Odd, Seemingly Arbitrary Times\n\n\n\ndataisbeautiful\n\n\nsports\n\n\nbaseball\n\n\n\n\n\n\n\nsudo_masochist\n\n\nOct 31, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "todo.html",
     "href": "todo.html",
     "title": "",
     "section": "",
-    "text": "[] transparent background logo gif [] add a google tag [] font on posts is different [] update about page [] move the substack sign up tile"
+    "text": "transparent background logo gif add a google tag add an aboout page"
   },
   {
     "objectID": "posts/post-with-code/mlb_first_pitch_time.html",
@@ -89,5 +89,12 @@
     "title": "Why Baseball Games Start at Odd, Seemingly Arbitrary Times",
     "section": "7:07 PM: Toronto Blue Jays",
     "text": "7:07 PM: Toronto Blue Jays\nToronto’s 7:07 start time is one of MLB’s most recognizable quirks. The team has never formally explained it, but two theories persist:\nThe “double sevens” are often seen as a nod to 1977, the year the franchise was founded. Others point to the dual national anthems, “O Canada” and “The Star-Spangled Banner,” which add a few minutes of pregame ceremony compared with U.S. teams.\nWhatever the origin, the consistent 7:07 first pitch has become part of the Blue Jays’ brand identity and a subtle local signature in MLB scheduling.\n\nIn summary… go Sox\n\n View the code on GitHub"
+  },
+  {
+    "objectID": "posts/67-vs-69/67_vs_69_viz.html",
+    "href": "posts/67-vs-69/67_vs_69_viz.html",
+    "title": "The Internet Has a New Favorite Number: 67 Has Eclipsed 69 in Search Popularity",
+    "section": "",
+    "text": "The internet’s favorite number is changing.\nIn 2025, 67 has eclipsed 69 in Google search popularity. This week Dictionary.com declared 67 its Word of the Year, which inspired me to make this plot.\nIf you don’t know what 67 is, read Dictionary.com’s article or this Wall Street Journal piece.\nIf you don’t know what 69 is, see Urban Dictionary."
   }
 ]
